@@ -8,7 +8,7 @@ export default {
   name: 'App',
   data: function () {
     return {
-      Name: "hi",
+      Name: "hi,tim",
       price1: 5,
       price2: 63
     };
